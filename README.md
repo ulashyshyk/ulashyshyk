@@ -75,7 +75,7 @@
 - **Instagram Clone**  
   A full-stack social platform replicating core Instagram features — including real-time messaging, media uploads, user profiles, likes, comments, and secure authentication.  
   _Tech:_ React.js, Node.js, Express.js, MongoDB, Socket.io, JWT, Cloudinary  
-  🛠️ GitHub: Coming Soon • 🌐 Live Demo: Coming Soon
+  🛠️ GitHub: [ulashyshyk/instagram-clone](https://github.com/ulashyshyk/instagram-clone)• 🌐 Live Demo: Coming Soon
 
 - **Workout Generator App**  
   A fitness web app that generates personalized workout plans based on the user’s selected goals, time, and experience level. Includes logic-driven exercise suggestions and a responsive interface.  
