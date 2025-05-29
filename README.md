@@ -80,7 +80,7 @@
 - **Workout Generator App**  
   A fitness web app that generates personalized workout plans based on the user’s selected goals, time, and experience level. Includes logic-driven exercise suggestions and a responsive interface.  
   _Tech:_ React.js, Node.js, Tailwind CSS 
-  🛠️ GitHub: Coming Soon • 🌐 Live Demo: Coming Soon
+🛠️ GitHub: [ulashyshyk/gym-workout-generator](https://github.com/ulashyshyk/gym-workout-generator) • 🌐 Live Demo: [gym-workout-generator](https://gym-workout-generator-woad.vercel.app/)
 
 - **Blog Management System**  
   A dynamic blog platform with full CRUD functionality for posts and categories. Features article filtering, clean UI, and admin/user role management.  
