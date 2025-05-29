@@ -85,7 +85,9 @@
 - **Blog Management System**  
   A dynamic blog platform with full CRUD functionality for posts and categories. Features article filtering, clean UI, and admin/user role management.  
   _Tech:_ Node.js, Express.js, EJS, PostgreSQL, Bootstrap 5, Vercel  
-  🛠️ GitHub: Coming Soon • 🌐 Live Demo: Coming Soon
+  🛠️ GitHub: [github.com/ulashyshyk/blog-management-system](https://github.com/ulashyshyk/blog-management-system)  
+🌐 Live Demo: [blog-management-system-xi.vercel.app](https://blog-management-system-xi.vercel.app)
+
 
 
 ### 🌱 Currently Exploring
