@@ -7,8 +7,6 @@
 
 💼 Previously worked as an IT Support Assistant, where I streamlined tech processes and automated device onboarding — developing a strong problem-solving mindset and collaborative experience in real-world environments.
 
-💡 Currently seeking a **Fall 2025 Co-op** in software or web development, QA, or testing to apply my skills in a dynamic, team-oriented environment.
-
 ---
 
 ### 🛠️ Skills & Tools
