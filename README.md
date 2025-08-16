@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ulash Yshyk</h1>
-<h3 align="center">Aspiring Software & Web Developer | Actively Seeking Fall 2025 Co-op</h3>
+<h3 align="center">Aspiring Software & Web Developer</h3>
 
 ---
 
