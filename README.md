@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ulash Yshyk</h1>
-<h3 align="center">Aspiring Software & Web Developer</h3>
+<h3 align="center">Software & Web Developer</h3>
 
 ---
 
 🎓 I’m a Computer Programming & Analysis student at **Seneca Polytechnic**, passionate about building scalable and user-focused web applications. I specialize in full-stack development and backend engineering.
-
-💼 Previously worked as an IT Support Assistant, where I streamlined tech processes and automated device onboarding — developing a strong problem-solving mindset and collaborative experience in real-world environments.
-
 ---
 
 ### 🛠️ Skills & Tools
